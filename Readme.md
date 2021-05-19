@@ -1,4 +1,4 @@
 # Personal Portfolio
-> contributed by https://github.com/rajaprerak
+> template contributed by https://github.com/rajaprerak
 
 
